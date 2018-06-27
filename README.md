@@ -11,7 +11,7 @@ responsibility to:
 * provide support, answer questions, offer advice, help you navigate your job
 * ensure you're recognized for your accomplishments (publicly if that's cool with you — I'll ask)
 
-## My expectations as your Engineering Manager
+## My expectations as your manager
 
 ### Within your first week
 * complete onboarding and training (outlined elsewhere)
@@ -19,7 +19,7 @@ responsibility to:
  * Slack
  * GitHub
  * Gravatar (register using your work email address)
-* set up your development environment
+* set up your laptop
 
 ### Always and forever
 * do your best
