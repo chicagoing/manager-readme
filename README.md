@@ -17,7 +17,6 @@ responsibility to:
 * complete onboarding and training (outlined elsewhere)
 * update your profile picture so everyone can begin to know you, especially
  * Slack
- * GitHub
  * Gravatar (register using your work email address)
 * set up your laptop
 
